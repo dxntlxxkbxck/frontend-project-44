@@ -53,7 +53,8 @@ brain-games
 Команда запускает приветствие пользователя
 
 Демонстрация игры:
-[Asciinema](https://asciinema.org/a/CeTHQxycaENKLDhK)
+[![Asciinema](https://asciinema.org/a/CeTHQxycaENKLDhK.svg)](https://asciinema.org/a/CeTHQxycaENKLDhK)
+
 
 ### Игра "Проверка на чётность"
 
@@ -65,7 +66,8 @@ brain-even
 Нужно ответить `yes`, если число чётное, и `no`, если число нечётное
 
 Демонстрация игры:
-[Asciinema](https://asciinema.org/a/cAhLtySkIoSpzcRA)
+[![Asciinema](https://asciinema.org/a/cAhLtySkIoSpzcRA.svg)](https://asciinema.org/a/cAhLtySkIoSpzcRA)
+
 
 ### Игра "Калькулятор"
 
@@ -81,7 +83,8 @@ brain-calc
 * умножение
 
 Демонстрация игры:
-[Asciinema](https://asciinema.org/a/Pg1lDLL3MVjJmZWW)
+[![Asciinema](https://asciinema.org/a/Pg1lDLL3MVjJmZWW.svg)](https://asciinema.org/a/Pg1lDLL3MVjJmZWW)
+
 
 ### Игра "НОД"
 
@@ -93,7 +96,8 @@ brain-gcd
 Нужно найти наибольший общий делитель двух чисел
 
 Демонстрация игры:
-[Asciinema](https://asciinema.org/a/BOsj8quh4IcpykVL)
+[![Asciinema](https://asciinema.org/a/BOsj8quh4IcpykVL.svg)](https://asciinema.org/a/BOsj8quh4IcpykVL)
+
 
 ### Игра "Арифметическая прогрессия"
 
@@ -105,7 +109,8 @@ brain-progression
 Нужно определить пропущенное число в арифметической прогрессии
 
 Демонстрация игры:
-[Asciinema](https://asciinema.org/a/gag2g6x4IhAHn5Wo)
+[![Asciinema](https://asciinema.org/a/gag2g6x4IhAHn5Wo.svg)](https://asciinema.org/a/gag2g6x4IhAHn5Wo)
+
 
 ### Игра "Простое ли число?"
 ```bash
@@ -116,11 +121,11 @@ brain-prime
 Нужно ответить `yes`, если число простое, и `no`, если число не является простым
 
 Демонстрация игры:
-[Asciinema](https://asciinema.org/a/DZo7wrKgfF4sjSRE)
+[![Asciinema](https://asciinema.org/a/DZo7wrKgfF4sjSRE.svg)](https://asciinema.org/a/DZo7wrKgfF4sjSRE)
 
 ## Пример успешного прохождения
 brain-even
-[Asciinema](https://asciinema.org/a/2SW3JxSWQjgn5MCB)
+[![Asciinema](https://asciinema.org/a/2SW3JxSWQjgn5MCB.svg)](https://asciinema.org/a/2SW3JxSWQjgn5MCB)
 
 ## Пример неудачного прохождения
 brain-even
