@@ -124,7 +124,7 @@ brain-even
 
 ## Пример неудачного прохождения
 brain-even
-[Asciinema](https://asciinema.org/a/4fRuxsgskurJBtzn)
+[![Asciinema](https://asciinema.org/a/4fRuxsgskurJBtzn.svg)](https://asciinema.org/a/4fRuxsgskurJBtzn)
 
 
 ## Архитектура проекта
